@@ -10,3 +10,18 @@
 - Source code: https://github.com/ethereum
 - Whitepaper: https://github.com/ethereum/wiki/wiki/White-Paper
 - Wallet: Imtoken, Jaxx, MEW(https://www.myetherwallet.com/)
+
+**Buy Bitcoin/Eth** 
+- Coinbase: https://www.coinbase.com/
+- Gemini: https://gemini.com  (low cost)
+
+
+**Blockchain News** 
+- CoinDesk: https://www.coindesk.com
+
+**Community** 
+- BitcoinTalk: https://bitcointalk.org/
+
+**ICO** 
+- https://www.coinschedule.com/
+- https://www.smithandcrown.com/icos/
